@@ -5,3 +5,23 @@
 #younger {
   display: none;
 }
+
+body {
+  background-image: url('https://erepublic.brightspotcdn.com/dims4/default/fc44258/2147483647/strip/true/crop/1025x498+0+66/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fdd%2F1d%2Fcfa6faa09989af4fb1b126024ca0%2Fshutterstock-1743370412.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+  color: honeydew;
+  padding-top: 40px;
+}
+
+ul {
+  background-color: aliceblue;
+  text-align: center;
+  list-style-position: inside; 
+}
+
